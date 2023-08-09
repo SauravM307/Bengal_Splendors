@@ -1,5 +1,6 @@
 # Bengal_Splendors
 
+Browse the wesbite hosted on render from this link: https://bengal-splendors.onrender.com/
 BengalSplendors is a modern-day website that promotes tourism in the picturesque state of West Bengal, India. Offering a curated selection of 9 hand-picked tours, ranging from cultural experiences to natural wonders, the website aims to entice travellers and adventurers alike.
 
 Key Features and Functionalities:
